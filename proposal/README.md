@@ -7,19 +7,19 @@ Proposals should be two pages long in single column A4 or letter format, with fo
 
 Proposals should clearly specify the following:
 
-[x] Workshop title.
+* [x] Workshop title.
 
-[] A brief description of the topics to be covered, and an explanation as to why the workshop will appeal to ICML audiences.
+* [] A brief description of the topics to be covered, and an explanation as to why the workshop will appeal to ICML audiences.
 
-[] A short description and rough timetable of the planned activities (talks, posters, panels).
+* [] A short description and rough timetable of the planned activities (talks, posters, panels).
 
-[]  List of invited speakers, specifying who is confirmed and who is unconfirmed.
+* []  List of invited speakers, specifying who is confirmed and who is unconfirmed.
 
-[] A description of the history of the workshop (if it previously took place, then when/where).
+* [] A description of the history of the workshop (if it previously took place, then when/where).
 
-[] Similar past and current events at ICML and NeurIPS in the last 1-2 years, even if not organized by the present workshop organizers. New workshops are welcome to build on prior workshops if a good case is made; completely original workshops are also welcome.
+* [] Similar past and current events at ICML and NeurIPS in the last 1-2 years, even if not organized by the present workshop organizers. New workshops are welcome to build on prior workshops if a good case is made; completely original workshops are also welcome.
 
-[]  A list of organizers with email addresses, web page URLs, pointers to Google Scholar or other similar citation service pages, a one-paragraph bio for each organizer, describing research expertise, and previous experience organizing scientific meetings.
+* []  A list of organizers with email addresses, web page URLs, pointers to Google Scholar or other similar citation service pages, a one-paragraph bio for each organizer, describing research expertise, and previous experience organizing scientific meetings.
 
 
 
