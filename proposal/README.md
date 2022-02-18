@@ -1,3 +1,30 @@
+# ICML 2022 teachML workshop
+
+
+## What We need to submit
+
+Proposals should be two pages long in single column A4 or letter format, with font size 11 or greater, excluding organizer contact details/CVs and bibliographic references.
+
+Proposals should clearly specify the following:
+
+[x] Workshop title.
+
+[] A brief description of the topics to be covered, and an explanation as to why the workshop will appeal to ICML audiences.
+
+[] A short description and rough timetable of the planned activities (talks, posters, panels).
+
+[]  List of invited speakers, specifying who is confirmed and who is unconfirmed.
+
+[] A description of the history of the workshop (if it previously took place, then when/where).
+
+[] Similar past and current events at ICML and NeurIPS in the last 1-2 years, even if not organized by the present workshop organizers. New workshops are welcome to build on prior workshops if a good case is made; completely original workshops are also welcome.
+
+[]  A list of organizers with email addresses, web page URLs, pointers to Google Scholar or other similar citation service pages, a one-paragraph bio for each organizer, describing research expertise, and previous experience organizing scientific meetings.
+
+
+
+
+
 # ECML2021 teachML workshop
 
 This folder tries to serve as a central hub to draft for a ECML2021 workshop submission on teaching methods for ML. 
