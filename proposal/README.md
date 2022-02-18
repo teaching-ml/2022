@@ -17,7 +17,7 @@ Proposals should clearly specify the following:
 
 * [ ] A description of the history of the workshop (if it previously took place, then when/where).
 
-* [ ] Similar past and current events at ICML and NeurIPS in the last 1-2 years, even if not organized by the present workshop organizers. New workshops are welcome to build on prior workshops if a good case is made; completely original workshops are also welcome.
+* [x] Similar past and current events at ICML and NeurIPS in the last 1-2 years, even if not organized by the present workshop organizers. New workshops are welcome to build on prior workshops if a good case is made; completely original workshops are also welcome.
 
 * [ ]  A list of organizers with email addresses, web page URLs, pointers to Google Scholar or other similar citation service pages, a one-paragraph bio for each organizer, describing research expertise, and previous experience organizing scientific meetings.
 
