@@ -22,6 +22,23 @@ Proposals should clearly specify the following:
 * [ ]  A list of organizers with email addresses, web page URLs, pointers to Google Scholar or other similar citation service pages, a one-paragraph bio for each organizer, describing research expertise, and previous experience organizing scientific meetings.
 
 
+## Similar past and current events at ICML and NeurIPS in the last 1-2 years
+
+**Pages Checked**
+
+[ICML 2020](https://icml.cc/Conferences/2020/Schedule?type=Workshop)
+
+[ICML 2021](https://icml.cc/Conferences/2021/Schedule?type=Workshop)
+
+[NeurIPS 2020](https://nips.cc/virtual/2020/public/e_workshops.html)
+
+[NeurIPS 2021](https://neurips.cc/Conferences/2021/Schedule?type=Workshop)
+
+
+**NeurIPS'21 [Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/)**
+
+This workshop is about ML systems that help teaching math. 
+
 
 
 
