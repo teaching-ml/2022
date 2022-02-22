@@ -15,9 +15,9 @@ MD_FILES=$(wildcard [0-9]*md)
 SORTED_MDS=$(sort $(MD_FILES))
 
 
-all : icml2022_teachingML_workshop.pdf
+all : icml-2022-workshop-proposal.pdf
 
-draft : icml2022_teachingML_workshop.pdf
+draft : icml-2022-workshop-proposal.pdf
 
 # icml2022_teachingML_workshop.md : $(SORTED_MDS)
 # 	@cat $(SORTED_MDS) > $@

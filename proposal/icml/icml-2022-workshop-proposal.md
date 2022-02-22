@@ -12,7 +12,7 @@ The main goal of this workshop is to motivate and nourish best practices for tea
 
 What is more, the Teaching Machine Learning workshop is timely as we wrestle with how to teach machine learning in an ever shifting landscape. The COVID-19 pandemic has reshaped our educational spaces again and again over the last two years and has demonstrated more acutely disparities in access to education and technology (both often relying on consistent economic resources). This workshop aims to bring together those who have successfully created more inclusive machine learning classrooms with those seeking to do the same at their institutions. 
 
-Our workshop will focus on sharing and discussing the best, evidence-based teaching methods and pedagogies, like the structured approach to teaching used by the carpentries (carpentries.org), variations thereof or alternatives to it. Aspects of these modern teaching methods include: course context, pre- and post-workshop surveys, learner profiles, learning goals and objectives, giving teaching feedback. With this, we hope to equip attendees with a structured approach to teaching. In this workshop, we like to bring together practitioners to assess the usefulness of these methods in the Machine Learning community.
+Our workshop will focus on sharing and discussing the best, evidence-based teaching methods and pedagogies, like the structured approach to teaching used by the carpentries ([carpentries.org](https://carpentries.org)), variations thereof or alternatives to it. Aspects of these modern teaching methods include: course context, pre- and post-workshop surveys, learner profiles, learning goals and objectives, giving teaching feedback. With this, we hope to equip attendees with a structured approach to teaching. In this workshop, we like to bring together practitioners to assess the usefulness of these methods in the Machine Learning community.
 
 The central activity of the workshop will be an expanded poster session called **community connect** based on the accepted papers. Authors can choose to present their work via a poster or lightning talk, but the goal is for participants and authors to connect about the ideas in the papers. There will be a **call-for-papers prior to the workshop** followed by an open peer review. We like to attract at maximum 4 page long mini-articles that present or discuss a teaching activity related to machine learning. These mini papers are expected to present teaching examples from various aspects of teaching ML, such as: 
 
@@ -119,7 +119,6 @@ Oliver is a PhD student at the HTW Dresden in the department of artificial intel
 His research focuses on Voice Interfaces, Machine Learning, and Natural Language Processing. He also teaches the Natural Language Processing part of the Deep Learning course at HTW Dresden.
 Oliver took part in the organization of several conferences. From 2015 to 2017 he was part of the team that organized "[DevDay](https://www.devday.de/)" a practitioners conference on software development. Since 2018 he is part of a team that organizes "[MobileCamp](https://mobilecamp.de/)" a Barcamp on mobile computing. In 2019 he was part of the project team that organized an international summer school on "[Voice Interaction and Voice Assistants in Health Care](https://viva2019.de)". Since 2020 Oliver is a session chair for the teaching ML workshop.
 
-
 ### Katherine M. Kinnaird
 
 **contact**: [kkinnaird@smith.edu](mailto:kkinnaird@smith.edu)
@@ -136,6 +135,4 @@ Katherine M. Kinnaird is a computational researcher working at the intersection 
 
 ## References
 
-The proceedings of 2020 were published in the open-access journal PMLR. They can be viewed on [the journal's homepage](http://proceedings.mlr.press/v141/).
-
-[cdh]: https://cdh.carpentries.org/
+The proceedings past workshops were published in the open-access journal PMLR. They can be viewed at [proceedings.mlr.press/v141/](http://proceedings.mlr.press/v141/) for 2020. The proceedings for 2021 are currently in print at PMLR.
