@@ -11,17 +11,16 @@ title: 'Teaching ML @ ECML-PKDD 2022'
 ## Important dates
 
 * TBA, 2022: Paper submissions open
-* TBA, 2022: Paper submissions due **Deadline extended**
-* TBA, 2022: Paper decisions
+* June 20, 2022: Paper submissions due 
+* July 13, 2022: Paper decisions
 * TBA, 2022: Camera ready due
-* TBA, 2022: all papers online
+* Sep 05, 2022: all papers online
 * TBA, 2022: satellite event **virtual** 
-* TBA, 2022: day of the workshop (paper presentations and discussion) **virtual** 
+* Sep 19-23, 2022: day of the workshop (paper presentations as posters and discussions) 
 
 ## Programme
 
-This workshop is currently planned as an online event. For both events we will use [Zoom](https://zoom.com) as our online conference service. 
-We will publish the conference link on this website before the event.
+This workshop is [currently planned](https://2022.ecmlpkdd.org/index.php/2021/05/21/decision-to-organize-ecml-pkdd-2020-as-a-fully-virtual-conference/) as an hybrid event. We will use [Zoom](https://zoom.com) as our online conference service if not endorsed otherwise by the conference.
 
 ### Preface Satellite Event 
 
@@ -74,9 +73,9 @@ TBA
 
 We will conduct an open double-blinded peer-review using [openreview.net](https://openreview.net) on all contributions and select contributions based on the reviewers' feedback. Here are the important dates:
 
-- TBA, 2022: Submission opens
-- TBA, 2022: Submission Deadline **Deadline extended** (no submissions past this date) 
-- TBA, 2022: Paper Confirmations
+* TBA, 2022: Submission opens
+* June 20, 2022: Paper submissions due 
+* July 13, 2022: Paper decisions
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. 
 
@@ -87,27 +86,8 @@ For past workshops, see the accepted papers in [2021](https://teaching-ml.github
 
 ### Reviewers
 
-We are extremely grateful for the group of volunteers that make this event happen by providing their reviews to submitted papers:
-
-- Claudia A. Engel (Stanford)
-- Melody Su (Mount Holyoke College)
-- Carola Gajek (University of Augsburg)
-- Lukas Heinrich (CERN)
-- Colin Sauze (Prifysgol Aberystwyth University)
-- David Rousseau (National institute of nuclear and particle physics, IN2P3)
-- Sebastian Starke (HZDR)
-- Steve Schmerler (HZDR)
-- Ludwig Bothmann (University of Munich)
-- John Laudun (US Army Combined Arms Center)
-- Sinead Williamson (University of Texas)
-- Patrick Glauner (Deggendorf Institute of Technology)
-- Jonathan Heras (Universidad de la rioja)
-- Matias Valdenegro (German Research Center for Artificial Intelligence, DFKI)
-- Mike Trizna (Smithsonian Institute)
-- Guillaume Muller (Université Jean Monnet Saint-Etienne)
-- Martin Palazzo (Universidad Tecnológica Nacional Facultad Regional Buenos Aires)
-- Thiemo Leonhardt (TU Dresden)
+We are extremely grateful for the group of volunteers that make this event happen by providing their reviews to submitted papers in the last years. We hope to attract reviewers again this year. Should you be interested, please let us know.
 
 ## Questions, Concerns or Feedback
 
-We are happy to hear from you regarding your questions, concerns or feedback. Please do so by opening an issue [here](https://github.com/teaching-ml/2021/) or [contact us](mailto:p.steinbach@hzdr.de).
+We are happy to hear from you regarding your questions, concerns or feedback. Please do so by opening an issue [here](https://github.com/teaching-ml/2022/) or [contact us](mailto:p.steinbach@hzdr.de).
