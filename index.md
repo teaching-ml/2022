@@ -10,11 +10,10 @@ title: 'Teaching ML @ ECML-PKDD 2022'
 
 ## Important dates
 
-* TBA, 2022: Paper submissions open
 * June 20, 2022: Paper submissions due 
 * July 13, 2022: Paper decisions
-* TBA, 2022: Camera ready due (including video recording)
-* Sep 05, 2022: all papers online
+* Sep 06, 2022: Camera ready due (including video recording)
+* Sep 09, 2022: all papers online
 * TBA, 2022: satellite event **virtual** 
 * Sep 23, 2022: day of the workshop (paper presentations as posters and coordinated discussions) 
 
