@@ -56,7 +56,7 @@ The central activity of the workshop will be twofold:
 ### Proceedings and Paper Format
 
 All papers will be published in with [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
-The papers must be written in English and formatted according to the [ICML 2021 latex template](https://github.com/teaching-ml/2021/raw/master/templatefiles/ICML2021%20Template%20--_%20Updated%20for%20TeachingML.zip).
+The papers must be written in English and formatted according to the [ICML 2021 latex template](https://github.com/teaching-ml/2021/raw/main/ICML2021%20Template%20--_%20Updated%20for%20TeachingML.zip).
 
 The maximum length of papers is 4 pages (excluding references and acknowledgements) in this format. The program chairs reserve the right to desk reject any over-length papers without review. Papers that ‘cheat’ the page limit by, including but not limited to, using smaller than specified margins or font sizes will also be treated as over-length. Note that for example negative `\vspace`s are also not allowed.
 
@@ -80,7 +80,7 @@ For past content accepted at our workshop, please see the proceedings of [2021](
 
 ### Paper Reviews
 
-We will conduct an open double-blinded peer-review using [openreview.net](https://openreview.net) on all contributions and select contributions based on the reviewers' feedback. Here are the important dates:
+We will conduct an open double-blinded peer-review using [openreview.net](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/TeachML) on all contributions and select contributions based on the reviewers' feedback. Here are the important dates:
 
 * May 13, 2022: Submission opens
 * June 20, 2022: Paper submissions due 
