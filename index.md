@@ -13,14 +13,14 @@ title: 'Teaching ML @ ECML-PKDD 2022'
 * TBA, 2022: Paper submissions open
 * June 20, 2022: Paper submissions due 
 * July 13, 2022: Paper decisions
-* TBA, 2022: Camera ready due
+* TBA, 2022: Camera ready due (including video recording)
 * Sep 05, 2022: all papers online
 * TBA, 2022: satellite event **virtual** 
-* Sep 19-23, 2022: day of the workshop (paper presentations as posters and discussions) 
+* Sep 23, 2022: day of the workshop (paper presentations as posters and coordinated discussions) 
 
 ## Programme
 
-This workshop is [currently planned](https://2022.ecmlpkdd.org/index.php/2021/05/21/decision-to-organize-ecml-pkdd-2020-as-a-fully-virtual-conference/) as an hybrid event. We will use [Zoom](https://zoom.com) as our online conference service if not endorsed otherwise by the conference.
+This workshop is [currently planned](https://2022.ecmlpkdd.org/index.php/2021/05/21/decision-to-organize-ecml-pkdd-2020-as-a-fully-virtual-conference/) as an hybrid event. We will use [Zoom](https://zoom.com) as our online conference service if not endorsed otherwise by the conference. We also plan to have conduct a physical event on site.
 
 ### Preface Satellite Event 
 
