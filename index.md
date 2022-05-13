@@ -59,21 +59,31 @@ The central activity of the workshop will be twofold:
 All papers will be published in with [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
 The papers must be written in English and formatted according to the [ICML 2021 latex template](https://github.com/teaching-ml/2021/raw/master/templatefiles/ICML2021%20Template%20--_%20Updated%20for%20TeachingML.zip).
 
-The maximum length of papers is 4 pages (excluding references and acknowledgements) in this format. The program chairs reserve the right to reject any over-length papers without review. Papers that ‘cheat’ the page limit by, including but not limited to, using smaller than specified margins or font sizes will also be treated as over-length. Note that for example negative vspaces are also not allowed.
+The maximum length of papers is 4 pages (excluding references and acknowledgements) in this format. The program chairs reserve the right to desk reject any over-length papers without review. Papers that ‘cheat’ the page limit by, including but not limited to, using smaller than specified margins or font sizes will also be treated as over-length. Note that for example negative `\vspace`s are also not allowed.
 
-Additional materials (e.g. proofs, audio, images, video, data, or source code) can be provided as URLs inside the paper of your submission. The reviewers and the program committee reserve the right to judge the paper solely based on the 4 pages; looking at any additional material is at the discretion of the reviewers and is not required.
+Additional materials (e.g. proofs, audio, images, video, data, or source code) can be provided as URLs inside the paper of your submission. The reviewers and the program committee reserve the right to judge the paper solely based on the 4 pages; looking at any additional material is at the discretion of the reviewers and is not required. In order not to undisclose the submitting author's identity, please consider using tools like [anonymous.4open.science](https://anonymous.4open.science/).
 
 We strive to pursue a double-blind review process. All papers need to be ‘best-effort’ anonymized. We strongly encourage to also make code and data available anonymously (e.g., in an anonymous git repository or Dropbox folder). It is allowed to have a (non-anonymous) pre-print online, but it should not be cited in the submitted paper to preserve anonymity. Reviewers will be asked not to search for them.
 
 ### Paper Submission
 
-TBA
+For past content accepted at our workshop, please see the proceedings of [2021](https://teaching-ml.github.io/2021/#accepted-papers) and [2020](https://teaching-ml.github.io/2020/#accepted-papers). We are open to any submission aligned with the goals of our workshop. In 2022, we cordially encourage authors to focus on 
+
+- in-depth discussions of teaching exerices
+- quantitive studies of learner progression
+- quantitive assessment of teaching exercises
+- in-depth discussions of data sets amendable for teaching ML
+- discussions of unplugged material that teaches ML without a computer
+- discussions on how to foster feedback between learners and instructors (perhaps in an automated fashion)
+- discussions on how to manage learner expectations prior to a course
+- comparing in-presence versus online teaching experiences
+
 
 ### Paper Reviews
 
 We will conduct an open double-blinded peer-review using [openreview.net](https://openreview.net) on all contributions and select contributions based on the reviewers' feedback. Here are the important dates:
 
-* TBA, 2022: Submission opens
+* May 13, 2022: Submission opens
 * June 20, 2022: Paper submissions due 
 * July 13, 2022: Paper decisions
 
@@ -86,7 +96,7 @@ For past workshops, see the accepted papers in [2021](https://teaching-ml.github
 
 ### Reviewers
 
-We are extremely grateful for the group of volunteers that make this event happen by providing their reviews to submitted papers in the last years. We hope to attract reviewers again this year. Should you be interested, please let us know.
+We are extremely grateful for the group of volunteers that make this event happen by providing their reviews to submitted papers in the last years. We hope to attract reviewers again this year. Should you be interested, please let us know and contact us as indicated below.
 
 ## Questions, Concerns or Feedback
 
