@@ -77,6 +77,7 @@ For past content accepted at our workshop, please see the proceedings of [2021](
 - discussions on how to manage learner expectations prior to a course
 - comparing in-presence versus online teaching experiences
 
+Please submit your papers on our [openreview.net](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/TeachML) page. Should you encounter any problems, please reach out to us [on our issue tracker](https://github.com/teaching-ml/2022/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) or as described below.
 
 ### Paper Reviews
 
