@@ -23,7 +23,7 @@ This workshop is [currently planned](https://2022.ecmlpkdd.org/index.php/2021/05
 
 ### Preface Satellite Event 
 
-This will take place on September 13, 2022. The times and presenters are as follows. We will 
+This will take place on September 13, 2022. The times and presenters are as follows. We will circulate the connection details in due course.
 
 | Time/CEST                                                                          | Title                                                                                                                  | Speaker                                                                       |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
