@@ -27,9 +27,9 @@ This will take place on September 13, 2022. The times and presenters are as foll
 
 | Time/CEST                                                                          | Title                                                                                                                  | Speaker                                                                       |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [2:45 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T1445) | Welcome and Housekeeping                                                                                               | The Organizers                                                                |
-| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T15)   |                                                                                                                        | David Arturo Amor Quiroz                                                      |
-| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T15)   |                                                                                                                        | Lorena Barba                                                                  |
+| [2:45 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T1245) | Welcome and Housekeeping                                                                                               | The Organizers                                                                |
+| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T13)   |                                                                                                                        | David Arturo Amor Quiroz                                                      |
+| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T14)   |                                                                                                                        | Lorena Barba                                                                  |
 
 
 ## About this workshop
