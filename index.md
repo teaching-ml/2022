@@ -23,17 +23,21 @@ This workshop is [currently planned](https://2022.ecmlpkdd.org/index.php/2021/05
 
 ### Preface Satellite Event 
 
-Content for this will follow soon.
+This will take place on September 13, 2022. The times and presenters are as follows. We will circulate the connection details in due course.
 
 | Time/CEST                                                                          | Title                                                                                                                  | Speaker                                                                       |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210908T1500) | Wrap up                                                                                                                |                                                                               |
+| [2:45 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T1245) | Welcome and Housekeeping                                                                                               | The Organizers                                                                |
+| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T13)   |                                                                                                                        | David Arturo Amor Quiroz                                                      |
+| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T14)   |                                                                                                                        | Lorena Barba                                                                  |
+
 
 ## About this workshop
 
 Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning (ML) is providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, and quality are public availability. To this date and the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. 
 
 With our workshop, we want to perpetuate an academic discussion on best practices. We would like to help improve existing material as a community and make conceiving new material more effective. We are very happy that this idea was approved for [ECML PKDD 2021](https://2021.ecmlpkdd.org/?page_id=1705) and [ECML PKDD 2020](https://teaching-ml.github.io/2020/) workshop programme. We hope to continue this in 2022.
+
 
 ## Motivation
 
