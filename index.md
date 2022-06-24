@@ -29,9 +29,25 @@ This will take place on September 13, 2022. The times and presenters are as foll
 | Time/CEST                                                                          | Title                                                                                                                  | Speaker                                                                       |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [2:45 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T1245) | Welcome and Housekeeping                                                                                               | The Organizers                                                                |
-| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T13)   |                                                                                                                        | David Arturo Amor Quiroz                                                      |
+| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T13)   | MOOC Machine learning in python with scikit-learn                                                                                                                       | David Arturo Amor Quiroz                                                      |
 | [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T14)   |                                                                                                                        | Lorena Barba                                                                  |
 
+### "MOOC Machine learning in python with scikit-learn" by David Arturo Amor Quiroz
+
+The MOOC "Machine learning in Python with scikit-learn" first aired in the
+spring 2021 and since then it has had two sessions with an average of 11,500
+registered participants per session.  In this talk we are going to discuss how
+the material can be used by teachers and students, as well as the technical
+and pedagogical choices and the general experience that the team have gained
+through the first 2 sessions.
+
+The course is free of charge, requires no installation, includes final
+attestation and a discussion forum where the scikit-learn core developers were
+answering student's questions. It offers a hands-on course with 7 modules (+ 1
+introductory module), 15 video lessons, 70 programming notebooks, 26 quizzes,
+7 wrap-up quizzes and 21 non-graded exercises. A static version of the course
+material is available on JupyterBook and the code can be found on GitHub where
+everybody can contribute.
 
 ## About this workshop
 
