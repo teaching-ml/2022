@@ -18,9 +18,19 @@ title: 'Teaching ML @ ECML-PKDD 2022'
 * TBA, 2022: satellite event **virtual** 
 * Sep 23, 2022: day of the workshop (paper presentations as posters and coordinated discussions) 
 
+## About this workshop
+
+Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning (ML) is providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, and quality are public availability. To this date and the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. 
+
+With our workshop, we want to perpetuate an academic discussion on best practices. We would like to help improve existing material as a community and make conceiving new material more effective. We are very happy that this idea was approved for [ECML PKDD 2021](https://2021.ecmlpkdd.org/?page_id=1705) and [ECML PKDD 2020](https://teaching-ml.github.io/2020/) workshop programme. We hope to continue this in 2022.
+
 ## Programme
 
-This workshop is [currently planned](https://2022.ecmlpkdd.org/index.php/2021/05/21/decision-to-organize-ecml-pkdd-2020-as-a-fully-virtual-conference/) as an hybrid event. We will use [Zoom](https://zoom.com) as our online conference service if not endorsed otherwise by the conference. We also plan to have conduct a physical event on site.
+This workshop is [currently planned](https://2022.ecmlpkdd.org/index.php/2021/05/21/decision-to-organize-ecml-pkdd-2020-as-a-fully-virtual-conference/) as an hybrid event. We will use [Zoom](https://zoom.com) as our online conference service if not endorsed otherwise by the conference. 
+
+The workshop programme is split into two parts:
+- a satellite event as a preface to the conference workshop
+- the conference workshop
 
 ### Preface Satellite Event 
 
@@ -50,13 +60,8 @@ introductory module), 15 video lessons, 70 programming notebooks, 26 quizzes,
 material is available on JupyterBook and the code can be found on GitHub where
 everybody can contribute.
 
-## About this workshop
 
-Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning (ML) is providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, and quality are public availability. To this date and the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. 
-
-With our workshop, we want to perpetuate an academic discussion on best practices. We would like to help improve existing material as a community and make conceiving new material more effective. We are very happy that this idea was approved for [ECML PKDD 2021](https://2021.ecmlpkdd.org/?page_id=1705) and [ECML PKDD 2020](https://teaching-ml.github.io/2020/) workshop programme. We hope to continue this in 2022.
-
-### Workshop at ECML
+### Hybrid Conference Workshop at ECML'22
 
 As we have a strong European and US community involved, we try to reflect this in our workshop on September 23, 2022, in Grenoble (France).
 
@@ -75,10 +80,6 @@ Our workshop will take place at the conference (European community) and online a
 - conclusion
 
 For every paper, the *authors need to provide a poster and a short video* introducing the paper. The videos will be posted along with the paper link on our website. Every participant will get an email with a random selection of 3 videos to watch, before the workshop.
-
-
-
-
 
 
 ## Motivation
