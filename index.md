@@ -12,7 +12,8 @@ title: 'Teaching ML @ ECML-PKDD 2022'
 
 * June 20, 2022: Paper submissions due 
 * June 27, 2022: **extended Paper submissions due**
-* July 20, 2022: Paper decisions
+* July 24, 2022: Perr review submissions due 
+* July 26, 2022: Paper decisions
 * Sep 06, 2022: Camera ready due (including video recording)
 * Sep 09, 2022: all papers online
 * TBA, 2022: satellite event **virtual** 
