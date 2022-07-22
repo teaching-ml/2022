@@ -12,7 +12,7 @@ title: 'Teaching ML @ ECML-PKDD 2022'
 
 * June 20, 2022: Paper submissions due 
 * June 27, 2022: **extended Paper submissions due**
-* July 24, 2022: Perr review submissions due 
+* July 24, 2022: Peer Review submissions due 
 * July 26, 2022: Paper decisions
 * Sep 06, 2022: Camera ready due (including video recording)
 * Sep 09, 2022: all papers online
@@ -132,8 +132,9 @@ Please submit your papers on our [openreview.net](https://openreview.net/group?i
 We will conduct an open double-blinded peer-review using [openreview.net](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/TeachML) on all contributions and select contributions based on the reviewers' feedback. Here are the important dates:
 
 * May 13, 2022: Submission opens
-* June 20, 2022: Paper submissions due 
-* July 13, 2022: Paper decisions
+* June 27, 2022: **extended Paper submissions due**
+* July 24, 2022: Peer Review submissions due 
+* July 26, 2022: Paper decisions
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. 
 
