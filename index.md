@@ -142,6 +142,45 @@ Each submitted paper will be reviewed publicly by at least two experienced machi
 
 For past workshops, see the accepted papers in [2021](https://teaching-ml.github.io/2021/#accepted-papers) and [2020](https://teaching-ml.github.io/2020/#accepted-papers). All published papers are available on PMLR.
 
+### Developing Open Source Educational Resources for Machine Learning and Data Science
+
+> by Ludwig Bothmann, Sven Strickroth, Giuseppe Casalicchio, David Rügamer, Marius Lindauer, Fabian Scheipl, Bernd Bischl
+
+### Teaching Machine Learning with mlr3 using Shiny
+
+> by Gero Szepannel, Laurens Tetzlaff, Alexander Frahm, Karsten Lübke
+
+### Teaching Machine Learning with Applied Interdisciplinary Real World Projects 
+
+> by Gulustan Dogan
+
+### A Deep Learning Bootcamp for Engineering & Management Students 
+
+> by Lukas Lodes, Alexander Schiendorfer
+
+### Hearts Gym: Learning Reinforcement Learning as a Team Event 
+
+> by Stefan Kesselheim, Jan Ebert, Danimir T Doncevic
+
+### Stimulating student engagement with an AI board game tournament
+
+> by Ken Hasselmann, Quentin Lurkin
+
+### Will the sun shine? – An accessible dataset for teaching machine learning and deep learning 
+
+> by Florian Huber, Dafne Erica van Kuppevelt, Peter Steinbach, Colin Sauze, Yang Liu, Berend Weel
+
+### Data, Trees, and Forests -- Decision Tree Learning in K-12 Education
+
+> by Tilman Michaeli, Stefan Seegerer, Lennard Kerber, Ralf Romeike
+
+### Introduction to AI: Crash Course for an audience with diverse backgrounds 
+
+> by Donatella Cea, Helene Hoffmann, Marie Piraud
+
+### Machine Learning Students Overfit to Overfitting
+
+> by Matias Valdenegro-Toro, Matthia Sabatelli
 
 ### Reviewers
 
