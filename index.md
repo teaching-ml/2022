@@ -67,16 +67,18 @@ everybody can contribute.
 
 As we have a strong European and US community involved, we try to reflect this in our workshop on September 23, 2022, in Grenoble (France).
 
-Our workshop will take place at the conference (European community) and online after (US and European community). We start with an in-person workshop in Grenoble. 
+Our workshop will take place at the conference (European community) and online after (US and European community). We start with an in-person workshop in Grenoble from [2:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1230) to [6:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1630). 
 
-*Europe workshop*
+*Europe workshop*, Sep 23, 2022 from [2:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1230) to [6:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1630)
+
 - welcome and warm-up session
 - guided group discussion
 - conclusion of group discussions
 - hand-over to virtual
 - poster session (hybrid via gather town?)
 
-*Online workshop*
+*Online workshop*, Sep 23, 2022, likely to start [7:00 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1700)
+
 - welcome and warm-up session
 - group discussion
 - conclusion
