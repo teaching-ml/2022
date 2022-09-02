@@ -16,7 +16,7 @@ title: 'Teaching ML @ ECML-PKDD 2022'
 * July 26, 2022: Paper decisions
 * Sep 06, 2022: Camera ready due (including video recording)
 * Sep 09, 2022: all papers online
-* TBA, 2022: satellite event **virtual** 
+* Sep 13, 2022: satellite event **virtual** 
 * Sep 23, 2022: day of the workshop (paper presentations as posters and coordinated discussions) 
 
 ## About this workshop
@@ -35,8 +35,9 @@ The workshop programme is split into two parts:
 
 ### Preface Satellite Event 
 
-This event will take place on September 13, 2022. The times and presenters are indicated in the table below. __We will circulate the connection details one week before the workshop on this website.__ 
-Note: To participate in the satellite event, no ECML ticket is needed. 
+This event will take place on September 13, 2022, starting [2:45 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T1245). The times and presenters are indicated in the table below. All details to participate are available on the [event note pad](https://notes.desy.de/-yxvasxzQPWO1iKwlQB5Kw?edit), e.g. the zoom connection details.
+
+**Note: To participate in the satellite event, no ECML ticket is needed.**
 
 | Time/CEST                                                                          | Title                                                                                                                  | Speaker                                                                       |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
