@@ -43,7 +43,7 @@ This event will take place on September 13, 2022, starting [2:45 pm CEST](https:
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [2:45 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T1245) | Welcome and Housekeeping                                                                                               | The Organizers                                                                |
 | [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T13)   | MOOC Machine learning in python with scikit-learn                                                                                                                       | David Arturo Amor Quiroz                                                      |
-| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T14)   |                                                                                                                        | Lorena Barba                                                                  |
+| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T14)   | Teaching in the Open: advancing education by adopting open source and open science practices                                                                                                                       | Lorena Barba                                                                  |
 
 #### "MOOC Machine learning in python with scikit-learn" by David Arturo Amor Quiroz
 
