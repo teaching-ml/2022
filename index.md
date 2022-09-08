@@ -62,6 +62,44 @@ introductory module), 15 video lessons, 70 programming notebooks, 26 quizzes,
 material is available on JupyterBook and the code can be found on GitHub where
 everybody can contribute.
 
+#### "Teaching in the Open: advancing education by adopting open source and open science practices” by Prof. Lorena A. Barba
+
+Subjects like machine learning and data science are changing very fast. It’s 
+thus a challenge for any particular department or college to teach high-quality 
+and up-to-date courses on these topics. By looking to adopt ethos and processes 
+from open source software and open science, we can enhance quality and outcomes 
+in teaching new subjects. Ethos means the practices and values that characterize 
+open source communities. The open education movement starting in the 1990s was 
+inspired by open source software; its most visible efforts have been open 
+courseware (OCW) and open educational resources (OER). But key features were 
+missed: the open development model, community building, and networked collaboration. 
+Teaching in the Open means looking to form collaborations in the development of 
+curricula and content, sharing learning objects under permissive licenses, thinking 
+of reuse from the beginning, participating in peer review of content and learning 
+objects, and accepting community contributions. In this vein, we founded The Journal 
+of Open Source Education (https://jose.theoj.org), publishing papers on both software 
+for educational purposes, and learning modules, particularly on computing-based courses. 
+The contributions of authors, editors, and reviewers show that communities of 
+teacher-scholars are forming, growing, and having impact.
+
+
+**Lorena A. Barba** is professor of mechanical and aerospace engineering at the 
+George Washington University in Washington, DC. An international leader in 
+computational science and engineering, she is also a long-standing advocate of open 
+source software for science and education, and she is well known for her courses and 
+open educational resources. She was a recipient of the 2016 Leamer-Rosenthal Award for 
+Open Social Sciences, and in 2017, was nominated and received an honorable mention in 
+the Open Education Awards for Excellence of the Open Education Consortium. Barba served 
+(2014–2021) in the Board of Directors for NumFOCUS, a 501(c)3 public charity in the 
+United States that supports and promotes world-class, innovative, open-source scientific 
+software. She is an expert in research reproducibility, and was a member of the National 
+Academies study committee on Reproducibility and Replicability in Science, which released 
+its report in 2019. She served as Reproducibility Chair for the SC19 (Supercomputing) 
+Conference, is Editor-in-Chief and track editor for Reproducible Research in IEEE’s 
+Computing in Science & Engineering, was founder and Associate Editor-in-Chief for the 
+Journal of Open Source Software, and is Editor-in-Chief of The Journal of Open Source 
+Education. She was General Chair of the global JupyterCon 2020 and was named Jupyter 
+Distinguished Contributor in 2020.
 
 ### Hybrid Conference Workshop at ECML'22
 
