@@ -62,6 +62,10 @@ introductory module), 15 video lessons, 70 programming notebooks, 26 quizzes,
 material is available on JupyterBook and the code can be found on GitHub where
 everybody can contribute.
 
+**David Arturo Amor Quiroz** did his PhD in physics at the Institute of Nuclear Sciences of UNAM, Mexico (2014-2018).
+He is currently working at the National Institute for Research in Digital Science and Technology (INRIA), France,
+as part of the maintenance team of the Machine Learning library called scikit-learn.
+
 #### "Teaching in the Open: advancing education by adopting open source and open science practices” by Prof. Lorena A. Barba
 
 Subjects like machine learning and data science are changing very fast. It’s 
