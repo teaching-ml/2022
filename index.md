@@ -107,26 +107,32 @@ Distinguished Contributor in 2020.
 
 ### Hybrid Conference Workshop at ECML'22
 
-As we have a strong European and US community involved, we try to reflect this in our workshop on September 23, 2022, in Grenoble (France).
+As we have a strong European and US community involved, we try to reflect this in our workshop setup on September 23, 2022, in Grenoble (France).
 
-Our workshop will take place at the conference (European community) and online after (US and European community). We start with an in-person workshop in Grenoble from [2:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1230) to [6:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1630). 
+Our workshop will take place at the conference (European community, hybrid setup) and online-only after this event (US and European community). We start with an hybrid workshop in Grenoble from [2:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1230) to [6:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1630) at ECML'22 in Grenoble. 
 
-*Europe workshop*, Sep 23, 2022 from [2:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1230) to [6:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1630) at ECML'22 in Grenoble.
+We will use [gather.town](https://app.gather.town/invite?token=nR7dgxAjGGiQyd7WJWkSvl1tNyhdtrJc) and our [ether.pad](https://etherpad.wikimedia.org/p/TeachML2022).
 
-- welcome and warm-up session
+**Agenda**:
+
+- welcome 
+- identifying topics of interest
+- guided group discussion
+- intermediate reports
+- break and chance to change topic
 - guided group discussion
 - conclusion of group discussions
-- hand-over to virtual
-- poster session (hybrid via gather town?)
+- hand-over to virtual on [gather.town](https://app.gather.town/invite?token=nR7dgxAjGGiQyd7WJWkSvl1tNyhdtrJc)
 
-*Online workshop*, Sep 23, 2022, likely to start [7:00 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1700) all virtual
+*Online workshop*, Sep 23, 2022, to start [7:00 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1700) all virtual on [gather.town](https://app.gather.town/invite?token=nR7dgxAjGGiQyd7WJWkSvl1tNyhdtrJc)
 
-- welcome and warm-up session
+- welcome and hand-over report from physical event
 - group discussion
 - conclusion
 
-For every paper, the *authors need to provide a poster and a short video* introducing the paper. The videos will be posted along with the paper link on our website. Every participant will get an email with a random selection of 3 videos to watch, before the workshop.
+For every paper, the *authors need to provide a poster (or similar) and a short video* introducing the paper. The videos will be posted along with the paper link on our website. Every participant will get an email with a random selection of 3 videos to watch, before the workshop.
 
+The key contents of the workshop discussion will find their way into a summary paper published along all papers of the workshop on PMLR.
 
 ## Motivation
 
