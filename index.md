@@ -209,8 +209,6 @@ Resources: [video](./download/videos/szepannek_teaching_machine_learning_with_ml
 
 > by Gulustan Dogan
 
-Resources: [video](./download/videos/dogan_teaching_ml_with_applied_real_world_projects.mp4)
-
 ### A Deep Learning Bootcamp for Engineering & Management Students 
 
 > by Lukas Lodes, Alexander Schiendorfer
