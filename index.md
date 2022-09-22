@@ -111,7 +111,7 @@ As we have a strong European and US community involved, we try to reflect this i
 
 Our workshop will take place at the conference (European community, hybrid setup) and online-only after this event (US and European community). We start with an hybrid workshop in Grenoble from [2:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1230) to [6:30 pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T1630) at ECML'22 in Grenoble. 
 
-We will use [gather.town](https://app.gather.town/invite?token=nR7dgxAjGGiQyd7WJWkSvl1tNyhdtrJc) and our [ether.pad](https://etherpad.wikimedia.org/p/TeachML2022).
+We will use [gather.town](https://app.gather.town/invite?token=nR7dgxAjGGiQyd7WJWkSvl1tNyhdtrJc) as a virtual meeting space and [ether.pad](https://etherpad.wikimedia.org/p/TeachML2022) for collaborative notes. Please contribute!
 
 **Agenda**:
 
