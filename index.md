@@ -195,6 +195,7 @@ For past workshops, see the accepted papers in [2021](https://teaching-ml.github
 
 ### Developing Open Source Educational Resources for Machine Learning and Data Science
 
+[video](./download/videos/bothmann_developing_open_source_educational_resources_for_ml_and_ds.mp4)
 > by Ludwig Bothmann, Sven Strickroth, Giuseppe Casalicchio, David Rügamer, Marius Lindauer, Fabian Scheipl, Bernd Bischl
 
 ### Teaching Machine Learning with mlr3 using Shiny
