@@ -197,60 +197,62 @@ For past workshops, see the accepted papers in [2021](https://teaching-ml.github
 
 > by Ludwig Bothmann, Sven Strickroth, Giuseppe Casalicchio, David Rügamer, Marius Lindauer, Fabian Scheipl, Bernd Bischl
 
-Resources: [video](./download/videos/bothmann_developing_open_source_educational_resources_for_ml_and_ds.mp4)
+Resources: [video](./download/videos/bothmann_developing_open_source_educational_resources_for_ml_and_ds.mp4), [paper](https://proceedings.mlr.press/v207/bothmann23a.html)
 
 ### Teaching Machine Learning with mlr3 using Shiny
 
 > by Gero Szepannel, Laurens Tetzlaff, Alexander Frahm, Karsten Lübke
 
-Resources: [video](./download/videos/szepannek_teaching_machine_learning_with_mlr3_using_shiny.mp4)
+Resources: [video](./download/videos/szepannek_teaching_machine_learning_with_mlr3_using_shiny.mp4), [paper](https://proceedings.mlr.press/v207/szepannel23a.html)
 
 ### Teaching Machine Learning with Applied Interdisciplinary Real World Projects 
 
 > by Gulustan Dogan
 
+Resources: [paper](https://proceedings.mlr.press/v207/dogan23a.html)
+
 ### A Deep Learning Bootcamp for Engineering & Management Students 
 
 > by Lukas Lodes, Alexander Schiendorfer
 
-Resources: [video](./download/videos/lodes_deep_learing_bootcamp_for_engineering.mp4)
+Resources: [video](./download/videos/lodes_deep_learing_bootcamp_for_engineering.mp4), [paper](https://proceedings.mlr.press/v207/lodes23a.html)
 
 ### Hearts Gym: Learning Reinforcement Learning as a Team Event 
 
 > by Stefan Kesselheim, Jan Ebert, Danimir T Doncevic
 
-Resources: [video](./download/videos/ebert_hearts_gym_rl_as_a_team_event.mp4)
+Resources: [video](./download/videos/ebert_hearts_gym_rl_as_a_team_event.mp4), [paper](https://proceedings.mlr.press/v207/ebert23a.html)
 
 ### Stimulating student engagement with an AI board game tournament
 
 > by Ken Hasselmann, Quentin Lurkin
 
-Resources: [video](./download/videos/hasselmann_stimulating_student_engagement_with_an_ai_board_game_tournament.mp4)
+Resources: [video](./download/videos/hasselmann_stimulating_student_engagement_with_an_ai_board_game_tournament.mp4), [paper](https://proceedings.mlr.press/v207/hasselmann23a.html)
 
 ### Will the sun shine? – An accessible dataset for teaching machine learning and deep learning 
 
 > by Florian Huber, Dafne Erica van Kuppevelt, Peter Steinbach, Colin Sauze, Yang Liu, Berend Weel
 
-Resources: [video](./download/videos/huber_will_the_sun_shine.mp4)
+Resources: [video](./download/videos/huber_will_the_sun_shine.mp4), [paper](https://proceedings.mlr.press/v207/huber23a.html)
 
 ### Data, Trees, and Forests -- Decision Tree Learning in K-12 Education
 
 > by Tilman Michaeli, Stefan Seegerer, Lennard Kerber, Ralf Romeike
 
-Resources: [video](./download/videos/michaeli-data_trees_and_forrests.mp4)
+Resources: [video](./download/videos/michaeli-data_trees_and_forrests.mp4), [paper](https://proceedings.mlr.press/v207/michaeli23a.html)
 
 ### Introduction to AI: Crash Course for an audience with diverse backgrounds 
 
 > by Donatella Cea, Helene Hoffmann, Marie Piraud
 
-Resources: [video](./download/videos/cea_introduction_to_ai_and_its_medical_applications.mp4)
+Resources: [video](./download/videos/cea_introduction_to_ai_and_its_medical_applications.mp4), [paper](https://proceedings.mlr.press/v207/cea23a.html)
 
 
 ### Machine Learning Students Overfit to Overfitting
 
 > by Matias Valdenegro-Toro, Matthia Sabatelli
 
-Resources: [video](./download/videos/valdenegro_machine_learning_students_overfit_to_overfitting.mp4)
+Resources: [video](./download/videos/valdenegro_machine_learning_students_overfit_to_overfitting.mp4), [paper](https://proceedings.mlr.press/v207/valdenegro-toro23a.html)
 
 ### Reviewers
 
